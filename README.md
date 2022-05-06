@@ -32,3 +32,15 @@ A 16-week intensive development bootcamp, focusing on :
 #### Bexley Grammar School (Sep 2007 - Jul 2013)
 
 - GCSEs
+
+## Experience
+
+**NatWest Group** (Sep 2016 - Dec 2021)    
+*Various Roles*  
+
+- Started as an Associate Personal Banker and worked my way up to roles such as Personal Mortgage Advisor and Premier Banking Manager. 
+- Managed banking for high net-worth clients. 
+- Delivered excellent customer service
+- Advised clients on their mortgages and made applications for them
+- Selling products such as accounts and insurances
+- Completed risk and quality assessments 
