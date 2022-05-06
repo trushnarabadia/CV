@@ -49,3 +49,9 @@ A 16-week intensive development bootcamp, focusing on :
 - Travelling and walking trails
 - Helping the needy, volunteer at a food bank with Go Dharmic
 - Learning languages
+
+## Contact Details
+
+- Github: [trushnarabadia](https://github.com/trushnarabadia)
+- LinkedIn: [Trushna Rabadia](https://www.linkedin.com/in/trushnarabadia)
+- [Codewars](https://www.codewars.com/users/rabadiatrushna@gmail.com)
