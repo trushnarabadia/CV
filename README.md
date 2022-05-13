@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact Details](#contact-details)
 
-I am a highly motivated Software Engineer who has recently graduated from the highly selective Makers Academy seeking my next opportunity. Coming from a background in banking, I have worked with amazing tech which led me to transitioning to software engineering I am a polyglot engineer and have worked with a various technologies. My strengths lie in problem solving, debugging and TDD. I have been able to demonstrate my ability to work in an agile and collaborative environment within my course and previous work experience. Having had experience in providing consultative services to clients, I have been able to demonstrate and enhance my communication and attention to detail skills. I am a determined and reliable character who is in search for an opportunity to enable further learning and professional development. With a combination of my technical and soft skills, I believe I would be a valuable asset to your team.
+I am a highly motivated Software Engineer who has recently graduated from the highly selective Makers Academy seeking my next opportunity. Coming from a background in banking, I have worked with amazing tech which led me to transitioning to software engineering I am a polyglot engineer and have worked with a various technologies. My strengths lie in problem solving, debugging and TDD. I have been able to demonstrate my ability to work in an agile and collaborative environment within my course and previous work experience. Having had experience in providing consultative services to clients, I have been able to demonstrate and enhance my communication and attention to detail. I am a determined and reliable character who is in search for an opportunity to enable further learning and professional development. With a combination of my technical and soft skills, I believe I would be a valuable asset to your team.
 
 ## Projects
 
@@ -22,7 +22,7 @@ A 16-week intensive development bootcamp, focusing on :
 
 - An immersive and intensive bootcamp where I learned a number of languages and technologies including: Ruby, Rspec, Capybara JavaScript, HTML & CSS, Heroku, Node, SQL and more. 
 - Learned how to effectively test-drive and develop.
-- Pair programming and working agile. 
+- Pair programming and agile working. 
 - Mentored new students to the course
 
 #### Plumstead Manor Sixth Form  (Sep 2013 - Jul 2015)
